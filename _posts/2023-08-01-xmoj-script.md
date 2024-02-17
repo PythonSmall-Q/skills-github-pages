@@ -1,5 +1,4 @@
 ---
-layout: default
 title: "欢迎您使用小明的OJ增强脚本"
 date: 2023-08-01
 ---
